@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saimon Bin Islam.
-- 👀 I’m interested in Cyber security, technology, 
+- 👀 I’m interested in Cyber security, full-stack, back-end, IT support, technology, 
 - 🌱 I’m currently learning information system security
 - 💞️ I’m looking to collaborate on IT, electronics, internships
 - 📫 How to reach me you can email me saimonbinislam@iut-dhaka.edu or saimonbinislam@gmail.com
